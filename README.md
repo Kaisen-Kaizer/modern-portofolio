@@ -14,3 +14,16 @@ Portfolio website yang modern dan responsif.
 - JavaScript
 
 ## 📁 Struktur File
+modern-portofolio/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── img/
+
+
+## 🚀 Live Demo
+[Buka di sini](https://Kaisen-Kaizer.github.io/modern-portofolio/)
+
+## 📝 Lisensi
+MIT License
